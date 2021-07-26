@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.tmpl": "asn1",
+        "malloc.h": "c"
+    }
+}
